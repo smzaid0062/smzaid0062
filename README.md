@@ -1,34 +1,239 @@
-<h1 align="center">Hi 👋, I'm Zaid</h1>
-<h3 align="center">A passionate web developer and devops from India</h3>
+# 👋 Hi, I'm Md Zaid
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=smzaid0062&label=Profile%20views&color=0e75b6&style=flat" alt="smzaid0062" /> </p>
+<div align="center">
 
-- 🔭 I’m currently working on **personal ai agent**
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Cloud+%26+DevOps+Enthusiast;Building+AI-Powered+Applications;Learning+by+Building+Real+Projects" alt="Typing SVG" />
 
-- 🌱 I’m currently learning **DevOps**
+  <p>
+    <b>Full-Stack Developer | Cloud & DevOps Enthusiast | AI Builder</b>
+  </p>
 
-- 👯 I’m looking to collaborate on [PulseCI](https://github.com/smzaid0062/PulseCI)
+  <p>
+    I build practical web applications, explore cloud infrastructure,
+    and automate development workflows. I enjoy turning ideas into
+    real-world projects and continuously learning new technologies.
+  </p>
 
-- 🤝 I’m looking for help with [PulseCI](https://github.com/smzaid0062/PulseCI)
+  <p>
+    <a href="https://thisiszaid.netlify.app/">Portfolio</a> •
+    <a href="https://github.com/smzaid0062">GitHub</a> •
+    <a href="https://linkedin.com/in/mdzaid3133">LinkedIn</a>
+  </p>
 
-- 👨‍💻 All of my projects are available at [https://thisiszaid.netlify.app/](https://thisiszaid.netlify.app/)
+  <img src="https://komarev.com/ghpvc/?username=smzaid0062&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views" />
 
-- 💬 Ask me about **Web Development, DevOps, Cloud**
+</div>
 
-- 📫 How to reach me **smzaid321@gmail.com**
+---
 
-- ⚡ Fun fact **I think I am funny**
+## 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
+- 🔭 Currently building a **Personal AI Agent**
+- 🌱 Currently learning **AWS, Docker, Kubernetes & DevOps**
+- 👯 Looking to collaborate on **[PulseCI](https://github.com/smzaid0062/PulseCI)**
+- 💻 Interested in **Full-Stack Development, Cloud Computing & Automation**
+- 🧠 Exploring AI-powered applications and intelligent developer tools
+- 🎯 Goal: Become a skilled **Cloud / DevOps Engineer**
+- 💬 Ask me about **JavaScript, React, Node.js, AWS & DevOps**
+- 📫 Reach me at **smzaid321@gmail.com**
+- ⚡ Fun fact: I think I'm funny, but my code reviews might disagree!
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+  <!-- Live GitHub statistics, including stars and repository activity -->
+  <a href="https://gitshine.com/stats/smzaid0062">
+    <img width="95%" src="https://gitshine.com/card/smzaid0062" alt="GitHub statistics and activity" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Public repository count -->
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsmzaid0062&query=%24.public_repos&label=PUBLIC%20REPOSITORIES&logo=github&color=181717&style=for-the-badge" alt="Public repositories" />
+
+  <img src="https://img.shields.io/github/followers/smzaid0062?label=FOLLOWERS&style=for-the-badge&logo=github&color=blue" alt="GitHub followers" />
+
+  <img src="https://img.shields.io/github/stars/smzaid0062?affiliations=OWNER&label=STARS%20RECEIVED&style=for-the-badge&logo=github&color=yellow" alt="Stars received" />
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+  <img width="80%" src="https://streak-stats.demolab.com?user=smzaid0062&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+  <!-- GitHub contribution calendar -->
+  <img width="95%" src="https://ghchart.rshah.org/0e75b6/smzaid0062" alt="GitHub contribution graph" />
+
+  <p><i>Consistency is more important than intensity. Keep building!</i></p>
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+  <a href="https://github.com/smzaid0062?tab=achievements">
+    <img src="https://img.shields.io/badge/View_GitHub_Achievements-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub achievements" />
+  </a>
+
+  <a href="https://github.com/smzaid0062?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_All_Repositories-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="All repositories" />
+  </a>
+
+</div>
+
+---
+
+## 💻 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🌱 Plantree – AI Study Planner</h3>
+      <div align="center">
+        <a href="https://github.com/smzaid0062/plantree-Ai-study-planer">
+          <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="Plantree repository" />
+        </a>
+        <a href="https://plantree-ai-study-planer.vercel.app/">
+          <img src="https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge&logo=vercel" alt="Plantree live demo" />
+        </a>
+      </div>
+      <p align="center">
+        An AI-powered study planner that transforms syllabuses into personalized study schedules with adaptive replanning, progress tracking and quizzes.
+      </p>
+      <p align="center">
+        <b>React • Node.js • Express • MongoDB • Docker • AWS EC2</b>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">⚡ PulseCI – CI/CD Dashboard</h3>
+      <div align="center">
+        <a href="https://github.com/smzaid0062/PulseCI">
+          <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="PulseCI repository" />
+        </a>
+        <a href="https://pulse-ci.vercel.app/">
+          <img src="https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge&logo=vercel" alt="PulseCI live demo" />
+        </a>
+      </div>
+      <p align="center">
+        A real-time CI/CD monitoring dashboard integrating GitHub repositories, webhook events, build status and live notifications.
+      </p>
+      <p align="center">
+        <b>React • Redux Toolkit • Node.js • MongoDB • GitHub Actions • Socket.IO</b>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3 align="center">🤖 MergeXel – AI Code Review</h3>
+      <p align="center">
+        An AI-powered code review project exploring automated code analysis and developer workflow integration.
+      </p>
+      <p align="center">
+        <a href="https://github.com/smzaid0062/MergeXel">
+          <img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github" alt="MergeXel repository" />
+        </a>
+      </p>
+      <p align="center">
+        <b>React • Node.js • Express • Docker • Jenkins</b>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Languages and Technologies
+
+### 👨‍💻 Programming & Web Development
+
 <p align="left">
-<a href="https://linkedin.com/in/mdzaid3133" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdzaid3133" height="30" width="40" /></a>
-<a href="https://instagram.com/sameer__0062__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sameer__0062__" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mdzaid_3133" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mdzaid_3133" height="30" width="40" /></a>
+  <a href="https://www.javascript.com/"><img src="https://skillicons.dev/icons?i=js" width="45" alt="JavaScript"/></a>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="45" alt="Python"/></a>
+  <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" width="45" alt="C++"/></a>
+  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="45" alt="React"/></a>
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="45" alt="Node.js"/></a>
+  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" width="45" alt="Express"/></a>
+  <a href="https://html.spec.whatwg.org/"><img src="https://skillicons.dev/icons?i=html" width="45" alt="HTML"/></a>
+  <a href="https://www.w3.org/Style/CSS/"><img src="https://skillicons.dev/icons?i=css" width="45" alt="CSS"/></a>
+  <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="45" alt="Tailwind CSS"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### ☁️ Cloud & DevOps
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=smzaid0062&show_icons=true&locale=en&layout=compact" alt="smzaid0062" /></p>
+<p align="left">
+  <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" width="45" alt="AWS"/></a>
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="45" alt="Docker"/></a>
+  <a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes" width="45" alt="Kubernetes"/></a>
+  <a href="https://www.jenkins.io/"><img src="https://skillicons.dev/icons?i=jenkins" width="45" alt="Jenkins"/></a>
+  <a href="https://www.nginx.com/"><img src="https://skillicons.dev/icons?i=nginx" width="45" alt="Nginx"/></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" width="45" alt="Bash"/></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="45" alt="Git"/></a>
+  <a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" width="45" alt="GitHub Actions"/></a>
+  <a href="https://www.terraform.io/"><img src="https://skillicons.dev/icons?i=terraform" width="45" alt="Terraform"/></a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smzaid0062&" alt="smzaid0062" /></p>
+### 🗄️ Databases & Tools
+
+<p align="left">
+  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" width="45" alt="MongoDB"/></a>
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="45" alt="MySQL"/></a>
+  <a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis" width="45" alt="Redis"/></a>
+  <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" width="45" alt="Firebase"/></a>
+  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" width="45" alt="Postman"/></a>
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="45" alt="VS Code"/></a>
+  <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" width="45" alt="Figma"/></a>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+  <a href="https://linkedin.com/in/mdzaid3133">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:smzaid321@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://thisiszaid.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.leetcode.com/mdzaid_3133">
+    <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://instagram.com/sameer__0062__">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+
+</div>
+
+---
+
+<div align="center">
+
+  ### 💙 Thanks for visiting my profile!
+
+  **Building. Learning. Improving. Repeating.**
+
+  ⭐ If you find my projects interesting, consider giving them a star!
+
+</div>
