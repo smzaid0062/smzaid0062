@@ -36,7 +36,6 @@
   <img src="https://komarev.com/ghpvc/?username=smzaid0062&label=PROFILE%20VIEWS&color=0e75b6&style=flat" alt="Profile views"/>
 
 </div>
----
 
 ## 🚀 About Me
 
