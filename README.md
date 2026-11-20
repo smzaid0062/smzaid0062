@@ -2,28 +2,40 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Cloud+%26+DevOps+Enthusiast;Building+AI-Powered+Applications;Learning+by+Building+Real+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Python+%26+AI+Enthusiast;Cloud+%26+DevOps+Explorer;Building+Intelligent+Applications;Turning+Ideas+Into+Real+Projects" alt="Typing SVG" />
+
+  <br/>
+
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,aws,docker,kubernetes" alt="Technology stack" />
 
   <p>
-    <b>Full-Stack Developer | Cloud & DevOps Enthusiast | AI Builder</b>
+    <b>Full-Stack Developer | Python & AI Enthusiast | Cloud & DevOps</b>
   </p>
 
   <p>
-    I build practical web applications, explore cloud infrastructure,
-    and automate development workflows. I enjoy turning ideas into
-    real-world projects and continuously learning new technologies.
+    I love building intelligent applications, developing scalable web solutions,
+    and exploring cloud infrastructure. Currently working on a Personal AI Agent
+    while expanding my knowledge of Python, AI, AWS, and DevOps automation.
   </p>
 
   <p>
-    <a href="https://thisiszaid.netlify.app/">Portfolio</a> •
-    <a href="https://github.com/smzaid0062">GitHub</a> •
-    <a href="https://linkedin.com/in/mdzaid3133">LinkedIn</a>
+    <a href="https://thisiszaid.netlify.app/">
+      <img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+    </a>
+    <a href="https://github.com/smzaid0062">
+      <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="https://linkedin.com/in/mdzaid3133">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:smzaid321@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=smzaid0062&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=smzaid0062&label=PROFILE%20VIEWS&color=0e75b6&style=flat" alt="Profile views"/>
 
 </div>
-
 ---
 
 ## 🚀 About Me
