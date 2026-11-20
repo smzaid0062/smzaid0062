@@ -72,18 +72,6 @@
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-  <!-- GitHub contribution calendar -->
-  <img width="95%" src="https://ghchart.rshah.org/0e75b6/smzaid0062" alt="GitHub contribution graph" />
-
-  <p><i>Consistency is more important than intensity. Keep building!</i></p>
-
-</div>
-
----
 
 ## 🏆 GitHub Achievements
 
