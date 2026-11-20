@@ -194,8 +194,6 @@
 
 ## 🤝 Connect With Me
 
-## 🤝 Connect With Me
-
 <div align="center">
 
   <a href="https://linkedin.com/in/mdzaid3133">
