@@ -130,19 +130,19 @@
   </tr>
   <tr>
     <td colspan="2">
-      <h3 align="center">🤖 MergeXel – AI Code Review</h3>
-      <p align="center">
-        An AI-powered code review project exploring automated code analysis and developer workflow integration.
-      </p>
-      <p align="center">
-        <a href="https://github.com/smzaid0062/MergeXel">
-          <img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github" alt="MergeXel repository" />
-        </a>
-      </p>
-      <p align="center">
-        <b>React • Node.js • Express • Docker • Jenkins</b>
-      </p>
-    </td>
+  <h3 align="center">🤖 Personal AI Agent – Intelligent AI Assistant</h3>
+  <p align="center">
+    Building a personal AI-powered assistant using Python, focused on intelligent interactions, task automation, LLM integration, and API-based workflows.
+  </p>
+  <p align="center">
+    <a href="https://github.com/smzaid0062">
+      <img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github" alt="Personal AI Agent repository" />
+    </a>
+  </p>
+  <p align="center">
+    <b>Python • AI/LLMs • REST APIs • Automation • JSON • Git • Linux</b>
+  </p>
+</td>
   </tr>
 </table>
 
